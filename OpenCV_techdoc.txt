@@ -5,10 +5,15 @@
 不要再尝试CLion了！！！
 
 OpenCV版本vc15
+vs2019
 
 
 安装时的配置：
+c++:
 https://blog.csdn.net/Smile_Bit_Seven/article/details/109509557
+
+python:
+https://blog.csdn.net/qq_29519575/article/details/91398974
 
 
 
